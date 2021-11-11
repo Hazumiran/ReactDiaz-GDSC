@@ -1,0 +1,112 @@
+[{
+        "id": 1,
+        "nama": "Halloween Kills",
+        "rating": 6.5,
+        "rilis": "2021",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634345456_ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+        "deskripsi": "Beberapa saat setelah Laurie Strode (Jamie Lee Curtis), putrinya Karen (Judy Greer) dan cucu perempuannya Allyson (Andi Matichak) meninggalkan monster.....",
+        "link": "https://167.86.71.48/halloween-kills-2021/"
+    },
+    {
+        "id": 2,
+        "nama": "Night Teeth",
+        "rating": 6.1,
+        "rilis": "2021",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634741398_4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg",
+        "deskripsi": "Seorang mahasiswa yang bekerja sambilan sebagai sopir menjemput dua wanita misterius untuk pesta malam di LA. Tetapi ketika dia mengungkap niat haus darah.....",
+        "link": "https://167.86.71.48/night-teeth-2021/"
+    },
+    {
+        "id": 3,
+        "nama": "Apocalypto",
+        "rating": 7.8,
+        "rilis": "2006",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635416126_cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",
+        "deskripsi": "Menceritakan perjalanan seseorang dari salah satu suku Maya yang kabur dari ritual pengorbanan manusia dan menyelamatkan keluarganya dari serangan suku Maya yang lain.",
+        "link": "https://167.86.71.48/apocalypto-2006/"
+    },
+    {
+        "id": 4,
+        "nama": "My Name",
+        "rating": 8.1,
+        "rilis": "2021",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634433697_gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+        "deskripsi": "Menceritakan tentang seorang wanita bernama Yoon Ji Woo diperankan Han So Hee merupakan anggota jaringan kejahatan terorganisir, menyamar sebagai.....",
+        "link": "https://167.86.71.48/my-name-2021/"
+    },
+    {
+        "id": 5,
+        "nama": "What If...?",
+        "rating": 8.8,
+        "rilis": "2021",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/08/1628672521_dzNHbmjueaGGwS3Rwpb8AAWkHxc.jpg",
+        "deskripsi": "Membayangkan kembali peristiwa-peristiwa penting di Marvel Cinematic Universe dan menciptakan berbagai kemungkinan tak terbatas.......",
+        "link": "https://167.86.71.48/what-if-2021/"
+    },
+
+    {
+        "id": 7,
+        "nama": "Flags of Our Fathers",
+        "rating": 7.1,
+        "rilis": "2006",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635417039_bJ4h4TY6IOPpgZh9wtbPOgYrh4.jpg",
+        "deskripsi": "Kisah ini berdasarkan buku karya James Bradley dan Ron Powers; tentang lima tentara marinir dan prajurit angkatan laut yang berhasil mengibarkan bendera di Iwo Jima dalam Pertempuran Iwo Jima.",
+        "link": "https://167.86.71.48/flags-of-our-fathers-2006/"
+    },
+    {
+        "id": 8,
+        "nama": "Maid",
+        "rating": 8.5,
+        "rilis": "2021",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635423320_4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+        "deskripsi": "Maid berfokus pada perjuangan perempuan bernama Alex Russel (Margaret Qualley), yang terpaksa melarikan diri dan berusaha untuk menghidupi putri semata wayangnya, Maddy Boyd (Rylea Nevaeh Whittet).",
+        "link": "https://167.86.71.48/maid-2021/"
+    },
+    {
+        "id": 9,
+        "nama": "Downfall",
+        "rating": 8.2,
+        "rilis": "2004",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2020/12/1607050606_cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+        "deskripsi": "Pada bulan April 1945, Jerman berada di ambang kekalahan dengan Tentara Rusia mendekat dari timur dan Pasukan Ekspedisi Sekutu menyerang dari barat. Di Berlin, ibu kota Reich......",
+        "link": "https://167.86.71.48/downfall-2004/"
+    },
+    {
+        "id": 10,
+        "nama": "War Horse",
+        "rating": 8.2,
+        "rilis": "2011",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635421546_7KHz6JlJhrFAPesmUkgdnLrSr8Y.jpg",
+        "deskripsi": "Sebuah kisah pengharapan dan kesabaran di mana Albert dan kudanya, Joey, adalah tak terpisahkan. Ketika Joey dijual ke kavaleri Inggris, Albert berharap bersatu kembali dengan temannya terbaik.",
+        "link": "https://167.86.71.48/war-horse-2011/"
+    },
+    {
+        "id": 11,
+        "nama": "The Town",
+        "rating": 7.5,
+        "rilis": "2010",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635421332_3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+        "deskripsi": "Cerita tentang kelompok ahli pencuri yang berhasil mencuri dari sebuah bank dan menyandera manajernya. Isu merebak ketika salah satu dari anggota mereka jatuh cinta dengan si manajer.",
+        "link": "https://167.86.71.48/the-town-2010/"
+    },
+    {
+        "id": 12,
+        "nama": "Sin nombre",
+        "rating": 7.6,
+        "rilis": "2009",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635420113_dubZwiGWp6TwYNGYtyGEUC7XAin.jpg",
+        "deskripsi": "Di tahun 2003, ditemukan sebuah truk yang berisi sekitar 80 imigran gelap yang terkunci dan dibuang di Texas. Sembilan belas diantaranya dalam kondisi tak bernyawa.",
+        "link": "https://167.86.71.48/sin-nombre-2009/"
+    },
+    {
+        "id": 13,
+        "nama": "Loki",
+        "rating": 9.4,
+        "rilis": "1994",
+        "gambar": "https://167.86.71.48/wp-content/uploads/2021/06/1623239469_kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+        "deskripsi": "Setelah mencuri Tesseract selama peristiwa “Avengers: Endgame,” versi alternatif Loki dibawa ke Time Variance Authority yang misterius, sebuah organisasi birokrasi yang ada di luar......",
+        "link": "https://167.86.71.48/loki-2021/"
+    }
+
+
+]
